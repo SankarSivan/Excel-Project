@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SankarSivan
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL, Power Bi & Tableau.
+- 🌱 I’m currently learning SQL, Power BI & Tableau.
 - 💞️ I'm interested in collaborating with others to explore the world of data.
 - 📫 How to reach me sankar.ace@gmail.com
 
